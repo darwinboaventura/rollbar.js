@@ -1,9 +1,9 @@
 {
-  "name": "rollbar",
+  "name": "rollbar-dw",
   "version": "2.15.0",
   "repository": {
     "type": "git",
-    "url": "http://github.com/rollbar/rollbar.js"
+    "url": "https://github.com/darwinboaventura/rollbar.js"
   },
   "description": "Error tracking and logging from JS to Rollbar",
   "license": "MIT",
